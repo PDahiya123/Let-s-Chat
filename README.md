@@ -15,8 +15,7 @@ It is a Web Application through which one can do chatting with multiple particip
    * [Google APIs](https://developers.google.com/apis-explorer)
    * [Buffer](https://www.npmjs.com/package/buffer)
 
-## Key Features Include:
-Video Conversation between multiple participants(more than 2) 
+## Key Features Include: 
    * Shares photos and videos
    * Share files
    * Send Location using google maps api
