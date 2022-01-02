@@ -1,0 +1,22 @@
+{
+  "name": "letschat",
+  "version": "1.0.0",
+  "description": "chat app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Pranshu",
+  "license": "ISC",
+  "dependencies": {
+    "Buffer": "0.0.0",
+    "bad-words": "^3.0.4",
+    "dirname": "^0.1.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "googleapis": "^74.2.0",
+    "nodemon": "^2.0.7",
+    "socket.io": "^4.1.2"
+  }
+}
